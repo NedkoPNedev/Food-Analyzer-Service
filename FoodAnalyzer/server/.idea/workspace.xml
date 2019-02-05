@@ -1,0 +1,975 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="f8c2b02e-ceff-4ec4-966c-aa2d505b72af" name="Default Changelist" comment="" />
+    <ignored path="$PROJECT_DIR$/out/" />
+    <ignored path="$PROJECT_DIR$/target/" />
+    <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="CoverageDataManager">
+    <SUITE FILE_PATH="coverage/FoodAnalyzerServer$DailyIntakeInvokerTest.ic" NAME="DailyIntakeInvokerTest Coverage Results" MODIFIED="1549010569201" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="idea" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false">
+      <FILTER>bg.sofia.uni.fmi.mjt.commands.daily.intake.commands.*</FILTER>
+    </SUITE>
+    <SUITE FILE_PATH="coverage/FoodAnalyzerServer$InvokerTest.ic" NAME="InvokerTest Coverage Results" MODIFIED="1548666934678" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="idea" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false">
+      <FILTER>bg.sofia.uni.fmi.mjt.commands.*</FILTER>
+    </SUITE>
+    <SUITE FILE_PATH="coverage/FoodAnalyzerServer$FoodCommandsExecutorTest.ic" NAME="FoodCommandsExecutorTest Coverage Results" MODIFIED="1549183182482" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="idea" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false">
+      <FILTER>bg.sofia.uni.fmi.mjt.commands.*</FILTER>
+    </SUITE>
+    <SUITE FILE_PATH="coverage/FoodAnalyzerServer$DailyIntakeCommandsExecutorTest.ic" NAME="DailyIntakeCommandsExecutorTest Coverage Results" MODIFIED="1549183229054" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="idea" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false">
+      <FILTER>bg.sofia.uni.fmi.mjt.commands.daily.intake.commands.*</FILTER>
+    </SUITE>
+    <SUITE FILE_PATH="coverage/FoodAnalyzerServer$FoodCommandsInvokerTest.ic" NAME="FoodCommandsInvokerTest Coverage Results" MODIFIED="1549010513553" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="idea" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false">
+      <FILTER>bg.sofia.uni.fmi.mjt.commands.*</FILTER>
+    </SUITE>
+  </component>
+  <component name="CoverageViewManager">
+    <option name="myElementSize" value="17" />
+  </component>
+  <component name="FileEditorManager">
+    <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/main/java/bg/sofia/uni/fmi/mjt/commands/FoodNameCommand.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="178">
+              <caret line="62" column="9" lean-forward="true" selection-start-line="62" selection-start-column="9" selection-end-line="62" selection-end-column="9" />
+              <folding>
+                <element signature="imports" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/main/java/bg/sofia/uni/fmi/mjt/commands/ConnectCommand.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="212">
+              <caret line="16" column="58" lean-forward="true" selection-start-line="16" selection-start-column="58" selection-end-line="16" selection-end-column="58" />
+              <folding>
+                <element signature="imports" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/src/main/java/bg/sofia/uni/fmi/mjt/commands/FoodReportCommand.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="376">
+              <caret line="45" lean-forward="true" selection-start-line="45" selection-end-line="45" />
+              <folding>
+                <element signature="imports" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/test/java/bg/sofia/uni/fmi/mjt/commands/FoodCommandsExecutorTest.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="-374">
+              <caret line="18" column="81" selection-start-line="18" selection-start-column="67" selection-end-line="18" selection-end-column="81" />
+              <folding>
+                <element signature="imports" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/client-database/NedkoNedev/25-1-2019">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="51">
+              <caret line="3" selection-start-line="3" selection-end-line="3" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/client-database/NedkoNedev/29-1-2019">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="17">
+              <caret line="1" selection-start-line="1" selection-end-line="1" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/main/java/bg/sofia/uni/fmi/mjt/commands/FoodCommandsExecutor.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="408">
+              <caret line="40" column="22" selection-start-line="40" selection-start-column="16" selection-end-line="40" selection-end-column="22" />
+              <folding>
+                <element signature="imports" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/main/java/bg/sofia/uni/fmi/mjt/commands/FoodBarcodeCommand.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="-100">
+              <caret line="43" column="5" selection-start-line="43" selection-start-column="5" selection-end-line="43" selection-end-column="5" />
+              <folding>
+                <element signature="imports" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/main/java/bg/sofia/uni/fmi/mjt/server/FoodAnalyzerServer.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="2516">
+              <caret line="150" column="64" lean-forward="true" selection-start-line="150" selection-start-column="64" selection-end-line="150" selection-end-column="64" />
+              <folding>
+                <element signature="imports" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/test/java/bg/sofia/uni/fmi/mjt/commands/daily/intake/commands/DailyIntakeCommandsExecutorTest.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="122">
+              <caret line="83" column="60" selection-start-line="83" selection-start-column="60" selection-end-line="83" selection-end-column="60" />
+              <folding>
+                <element signature="imports" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+    </leaf>
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Interface" />
+        <option value="JUnit4 Test Class" />
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="FindInProjectRecents">
+    <findStrings>
+      <find>trim</find>
+      <find>replaceALL</find>
+      <find>replace</find>
+      <find>45252614</find>
+      <find>client_cr</find>
+      <find>IMG_</find>
+      <find>FOOD_NOT</find>
+      <find>FOOD_</find>
+      <find>MISS</find>
+      <find>DAILY_INTAKE_NO</find>
+      <find>SERVER_PR</find>
+      <find>closing</find>
+      <find>READING</find>
+      <find>READIN</find>
+      <find>food</find>
+      <find>milk_</find>
+      <find>INVALID</find>
+      <find>IMG_BARCODE_</find>
+      <find>MILK_CHOCOLATE_UPC</find>
+      <find>MILK_CHOCOLATE_BYB</find>
+      <find>CONNECT_COM</find>
+      <find>client_al</find>
+      <find>CHANNEL_ACCEPT</find>
+      <find>NDBNO_CODE_FILE_PATH</find>
+    </findStrings>
+  </component>
+  <component name="IdeDocumentHistory">
+    <option name="CHANGED_PATHS">
+      <list>
+        <option value="$PROJECT_DIR$/src/test/java/bg/sofia/uni/fmi/mjt/commands/http/response/StubbedHttpClient.java" />
+        <option value="$PROJECT_DIR$/src/main/java/bg/sofia/uni/fmi/mjt/commands/AddToDailyIntakeCommandHandler.java" />
+        <option value="$PROJECT_DIR$/src/main/java/bg/sofia/uni/fmi/mjt/commands/client/commands/ClientCommandHandler.java" />
+        <option value="$PROJECT_DIR$/client-database/NedkoNedev/temp" />
+        <option value="$PROJECT_DIR$/client-database/NedkoNedev/25-1-19" />
+        <option value="$PROJECT_DIR$/client-database/NedkoNedev/25-1-2019" />
+        <option value="$PROJECT_DIR$/src/main/java/bg/sofia/uni/fmi/mjt/exceptions/DailyIntakeFileNotFoundException.java" />
+        <option value="$PROJECT_DIR$/src/main/java/bg/sofia/uni/fmi/mjt/exceptions/IMGNotFoundException.java" />
+        <option value="$PROJECT_DIR$/client-database/NedkoNedev/28-1-2019" />
+        <option value="$PROJECT_DIR$/src/main/java/bg/sofia/uni/fmi/mjt/commands/daily/intake/commands/AddToDailyIntakeCommandHandler.java" />
+        <option value="$PROJECT_DIR$/src/main/java/bg/sofia/uni/fmi/mjt/commands/daily/intake/commands/ShowDailyIntakeCommandHandler.java" />
+        <option value="$PROJECT_DIR$/src/test/java/bg/sofia/uni/fmi/mjt/commands/InvokerTest.java" />
+        <option value="$PROJECT_DIR$/src/main/java/bg/sofia/uni/fmi/mjt/commands/FoodByBarcodeCommandHandler.java" />
+        <option value="$PROJECT_DIR$/src/main/java/bg/sofia/uni/fmi/mjt/commands/Invoker.java" />
+        <option value="$PROJECT_DIR$/src/main/java/bg/sofia/uni/fmi/mjt/commands/daily/intake/commands/RemoveFromDailyIntakeCommandHandler.java" />
+        <option value="$PROJECT_DIR$/src/main/java/bg/sofia/uni/fmi/mjt/commands/FoodCommandHandler.java" />
+        <option value="$PROJECT_DIR$/src/main/java/bg/sofia/uni/fmi/mjt/server/FoodAnaylzerServer.java" />
+        <option value="$PROJECT_DIR$/src/main/java/bg/sofia/uni/fmi/mjt/exceptions/ServerResourcesException.java" />
+        <option value="$PROJECT_DIR$/pom.xml" />
+        <option value="$PROJECT_DIR$/src/main/java/bg/sofia/uni/fmi/mjt/commands/CommandHandler.java" />
+        <option value="$PROJECT_DIR$/src/main/java/bg/sofia/uni/fmi/mjt/commands/ConnectCommandHandler.java" />
+        <option value="$PROJECT_DIR$/src/main/java/bg/sofia/uni/fmi/mjt/commands/FoodNameCommandHandler.java" />
+        <option value="$PROJECT_DIR$/src/main/java/bg/sofia/uni/fmi/mjt/commands/FoodBarcodeCommandHandler.java" />
+        <option value="$PROJECT_DIR$/src/main/java/bg/sofia/uni/fmi/mjt/commands/FoodReportCommandHandler.java" />
+        <option value="$PROJECT_DIR$/src/main/java/bg/sofia/uni/fmi/mjt/commands/daily/intake/commands/DailyIntakeCommandHandler.java" />
+        <option value="$PROJECT_DIR$/src/main/java/bg/sofia/uni/fmi/mjt/commands/daily/intake/commands/DailyIntakeAdditionCommandHandler.java" />
+        <option value="$PROJECT_DIR$/src/main/java/bg/sofia/uni/fmi/mjt/commands/daily/intake/commands/DailyIntakeRemovalCommandHandler.java" />
+        <option value="$PROJECT_DIR$/src/main/java/bg/sofia/uni/fmi/mjt/commands/daily/intake/commands/DailyIntakeTableCommandHandler.java" />
+        <option value="$PROJECT_DIR$/src/main/java/bg/sofia/uni/fmi/mjt/exceptions/WritingFileException.java" />
+        <option value="$PROJECT_DIR$/src/main/java/bg/sofia/uni/fmi/mjt/exceptions/ResponseException.java" />
+        <option value="$PROJECT_DIR$/src/main/java/bg/sofia/uni/fmi/mjt/commands/daily/intake/commands/DailyIntakeCommand.java" />
+        <option value="$PROJECT_DIR$/src/main/java/bg/sofia/uni/fmi/mjt/commands/daily/intake/commands/DailyIntakeInvoker.java" />
+        <option value="$PROJECT_DIR$/src/main/java/bg/sofia/uni/fmi/mjt/commands/FoodCommandsInvoker.java" />
+        <option value="$PROJECT_DIR$/src/test/java/bg/sofia/uni/fmi/mjt/commands/FoodCommandsInvokerTest.java" />
+        <option value="$PROJECT_DIR$/src/test/java/bg/sofia/uni/fmi/mjt/commands/server/FoodAnalyzerServer.java" />
+        <option value="$PROJECT_DIR$/src/main/java/bg/sofia/uni/fmi/mjt/commands/FoodBarcodeCommand.java" />
+        <option value="$PROJECT_DIR$/src/test/java/bg/sofia/uni/fmi/mjt/commands/daily/intake/commands/DailyIntakeInvokerTest.java" />
+        <option value="$PROJECT_DIR$/src/test/java/bg/sofia/uni/fmi/mjt/commands/daily/intake/commands/DailyIntakeCommandsExecutorTest.java" />
+        <option value="$PROJECT_DIR$/src/main/java/bg/sofia/uni/fmi/mjt/commands/daily/intake/commands/DailyIntakeCommandsExecutor.java" />
+        <option value="$PROJECT_DIR$/src/main/java/bg/sofia/uni/fmi/mjt/commands/ConnectCommand.java" />
+        <option value="$PROJECT_DIR$/src/main/java/bg/sofia/uni/fmi/mjt/commands/daily/intake/commands/DailyIntakeAdditionCommand.java" />
+        <option value="$PROJECT_DIR$/src/main/java/bg/sofia/uni/fmi/mjt/commands/daily/intake/commands/DailyIntakeRemovalCommand.java" />
+        <option value="$PROJECT_DIR$/src/main/java/bg/sofia/uni/fmi/mjt/commands/daily/intake/commands/DailyIntakeTableCommand.java" />
+        <option value="$PROJECT_DIR$/src/main/java/bg/sofia/uni/fmi/mjt/commands/Command.java" />
+        <option value="$PROJECT_DIR$/src/main/java/bg/sofia/uni/fmi/mjt/constants/ServerConstants.java" />
+        <option value="$PROJECT_DIR$/src/test/java/bg/sofia/uni/fmi/mjt/commands/constants/TestConstants.java" />
+        <option value="$PROJECT_DIR$/client-database/NedkoNedev/4-2-2019" />
+        <option value="$PROJECT_DIR$/src/main/java/bg/sofia/uni/fmi/mjt/commands/FoodCommandsExecutor.java" />
+        <option value="$PROJECT_DIR$/src/main/java/bg/sofia/uni/fmi/mjt/server/FoodAnalyzerServer.java" />
+        <option value="$PROJECT_DIR$/src/main/java/bg/sofia/uni/fmi/mjt/commands/FoodNameCommand.java" />
+        <option value="$PROJECT_DIR$/src/main/java/bg/sofia/uni/fmi/mjt/commands/FoodReportCommand.java" />
+      </list>
+    </option>
+  </component>
+  <component name="ProjectFrameBounds" extendedState="6">
+    <option name="x" value="10" />
+    <option name="y" value="20" />
+    <option name="width" value="1346" />
+    <option name="height" value="688" />
+  </component>
+  <component name="ProjectView">
+    <navigator proportions="" version="1">
+      <foldersAlwaysOnTop value="true" />
+    </navigator>
+    <panes>
+      <pane id="ProjectPane">
+        <subPane>
+          <expand>
+            <path>
+              <item name="FoodAnalyzerServer" type="b2602c69:ProjectViewProjectNode" />
+              <item name="server" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="FoodAnalyzerServer" type="b2602c69:ProjectViewProjectNode" />
+              <item name="server" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="FoodAnalyzerServer" type="b2602c69:ProjectViewProjectNode" />
+              <item name="server" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="FoodAnalyzerServer" type="b2602c69:ProjectViewProjectNode" />
+              <item name="server" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+              <item name="java" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="FoodAnalyzerServer" type="b2602c69:ProjectViewProjectNode" />
+              <item name="server" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+              <item name="java" type="462c0819:PsiDirectoryNode" />
+              <item name="mjt" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="FoodAnalyzerServer" type="b2602c69:ProjectViewProjectNode" />
+              <item name="server" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+              <item name="java" type="462c0819:PsiDirectoryNode" />
+              <item name="mjt" type="462c0819:PsiDirectoryNode" />
+              <item name="commands" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="FoodAnalyzerServer" type="b2602c69:ProjectViewProjectNode" />
+              <item name="server" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+              <item name="java" type="462c0819:PsiDirectoryNode" />
+              <item name="mjt" type="462c0819:PsiDirectoryNode" />
+              <item name="commands" type="462c0819:PsiDirectoryNode" />
+              <item name="commands" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="FoodAnalyzerServer" type="b2602c69:ProjectViewProjectNode" />
+              <item name="server" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+              <item name="java" type="462c0819:PsiDirectoryNode" />
+              <item name="mjt" type="462c0819:PsiDirectoryNode" />
+              <item name="constants" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="FoodAnalyzerServer" type="b2602c69:ProjectViewProjectNode" />
+              <item name="server" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+              <item name="java" type="462c0819:PsiDirectoryNode" />
+              <item name="mjt" type="462c0819:PsiDirectoryNode" />
+              <item name="exceptions" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="FoodAnalyzerServer" type="b2602c69:ProjectViewProjectNode" />
+              <item name="server" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+              <item name="java" type="462c0819:PsiDirectoryNode" />
+              <item name="mjt" type="462c0819:PsiDirectoryNode" />
+              <item name="server" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="FoodAnalyzerServer" type="b2602c69:ProjectViewProjectNode" />
+              <item name="server" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="test" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="FoodAnalyzerServer" type="b2602c69:ProjectViewProjectNode" />
+              <item name="server" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="test" type="462c0819:PsiDirectoryNode" />
+              <item name="java" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="FoodAnalyzerServer" type="b2602c69:ProjectViewProjectNode" />
+              <item name="server" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="test" type="462c0819:PsiDirectoryNode" />
+              <item name="java" type="462c0819:PsiDirectoryNode" />
+              <item name="commands" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="FoodAnalyzerServer" type="b2602c69:ProjectViewProjectNode" />
+              <item name="server" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="test" type="462c0819:PsiDirectoryNode" />
+              <item name="java" type="462c0819:PsiDirectoryNode" />
+              <item name="commands" type="462c0819:PsiDirectoryNode" />
+              <item name="constants" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="FoodAnalyzerServer" type="b2602c69:ProjectViewProjectNode" />
+              <item name="server" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="test" type="462c0819:PsiDirectoryNode" />
+              <item name="java" type="462c0819:PsiDirectoryNode" />
+              <item name="commands" type="462c0819:PsiDirectoryNode" />
+              <item name="commands" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="FoodAnalyzerServer" type="b2602c69:ProjectViewProjectNode" />
+              <item name="server" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="test" type="462c0819:PsiDirectoryNode" />
+              <item name="java" type="462c0819:PsiDirectoryNode" />
+              <item name="commands" type="462c0819:PsiDirectoryNode" />
+              <item name="response" type="462c0819:PsiDirectoryNode" />
+            </path>
+          </expand>
+          <select />
+        </subPane>
+      </pane>
+      <pane id="Scope" />
+      <pane id="PackagesPane" />
+    </panes>
+  </component>
+  <component name="PropertiesComponent">
+    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1549353520278" />
+    <property name="com.intellij.testIntegration.createTest.CreateTestDialog.defaultLibrary" value="JUnit4" />
+    <property name="com.intellij.testIntegration.createTest.CreateTestDialog.defaultLibrarySuperClass.JUnit4" value="" />
+    <property name="last.edited.regexp" value="" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/../client" />
+    <property name="project.structure.last.edited" value="Modules" />
+    <property name="project.structure.proportion" value="0.15" />
+    <property name="project.structure.side.proportion" value="0.2" />
+    <property name="run.code.analysis.last.selected.profile" value="pProject Default" />
+    <property name="settings.editor.selected.configurable" value="reference.projectsettings.compiler.javacompiler" />
+  </component>
+  <component name="RecentsManager">
+    <key name="CreateTestDialog.RecentsKey">
+      <recent name="bg.sofia.uni.fmi.mjt.commands.daily.intake.commands" />
+      <recent name="bg.sofia.uni.fmi.mjt.commands" />
+    </key>
+    <key name="CreateTestDialog.Recents.Supers">
+      <recent name="" />
+    </key>
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="C:\Users\Probook\Desktop\FoodAnalyzer\server\database\food-name" />
+    </key>
+    <key name="CopyClassDialog.RECENTS_KEY">
+      <recent name="bg.sofia.uni.fmi.mjt.commands.server" />
+    </key>
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="C:\Users\Probook\Desktop\FoodAnalyzer\server\src\test\java" />
+    </key>
+    <key name="CreateClassDialog.RecentsKey">
+      <recent name="bg.sofia.uni.fmi.mjt.exceptions" />
+    </key>
+  </component>
+  <component name="RunDashboard">
+    <option name="ruleStates">
+      <list>
+        <RuleState>
+          <option name="name" value="ConfigurationTypeDashboardGroupingRule" />
+        </RuleState>
+        <RuleState>
+          <option name="name" value="StatusDashboardGroupingRule" />
+        </RuleState>
+      </list>
+    </option>
+  </component>
+  <component name="RunManager" selected="JUnit.DailyIntakeCommandsExecutorTest">
+    <configuration name="FoodAnalyzerServer (1)" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="bg.sofia.uni.fmi.mjt.server.FoodAnalyzerServer" />
+      <module name="server" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="bg.sofia.uni.fmi.mjt.server.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="FoodAnalyzerServer" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="bg.sofia.uni.fmi.mjt.commands.server.FoodAnalyzerServer" />
+      <module name="server" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="bg.sofia.uni.fmi.mjt.commands.server.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="DailyIntakeCommandsExecutorTest" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="server" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="bg.sofia.uni.fmi.mjt.commands.daily.intake.commands.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="bg.sofia.uni.fmi.mjt.commands.daily.intake.commands" />
+      <option name="MAIN_CLASS_NAME" value="bg.sofia.uni.fmi.mjt.commands.daily.intake.commands.DailyIntakeCommandsExecutorTest" />
+      <option name="TEST_OBJECT" value="class" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="FoodCommandsExecutorTest" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="server" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="bg.sofia.uni.fmi.mjt.commands.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="bg.sofia.uni.fmi.mjt.commands" />
+      <option name="MAIN_CLASS_NAME" value="bg.sofia.uni.fmi.mjt.commands.FoodCommandsExecutorTest" />
+      <option name="TEST_OBJECT" value="class" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="FoodCommandsExecutorTest.testConnectCommandClientConnection" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="server" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="bg.sofia.uni.fmi.mjt.commands.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="bg.sofia.uni.fmi.mjt.commands" />
+      <option name="MAIN_CLASS_NAME" value="bg.sofia.uni.fmi.mjt.commands.FoodCommandsExecutorTest" />
+      <option name="METHOD_NAME" value="testConnectCommandClientConnection" />
+      <option name="TEST_OBJECT" value="method" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="JUnit.DailyIntakeCommandsExecutorTest" />
+        <item itemvalue="JUnit.FoodCommandsExecutorTest" />
+        <item itemvalue="Application.FoodAnalyzerServer (1)" />
+        <item itemvalue="Application.FoodAnalyzerServer" />
+        <item itemvalue="JUnit.FoodCommandsExecutorTest.testConnectCommandClientConnection" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="f8c2b02e-ceff-4ec4-966c-aa2d505b72af" name="Default Changelist" comment="" />
+      <created>1548236742956</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1548236742956</updated>
+    </task>
+    <servers />
+  </component>
+  <component name="TestHistory">
+    <history-entry file="FoodCommandsExecutorTest - 2019.02.03 at 10h 19m 17s.xml">
+      <configuration name="FoodCommandsExecutorTest" configurationId="JUnit" />
+    </history-entry>
+    <history-entry file="FoodCommandsExecutorTest - 2019.02.03 at 10h 40m 18s.xml">
+      <configuration name="FoodCommandsExecutorTest" configurationId="JUnit" />
+    </history-entry>
+    <history-entry file="DailyIntakeCommandsExecutorTest - 2019.02.03 at 10h 41m 04s.xml">
+      <configuration name="DailyIntakeCommandsExecutorTest" configurationId="JUnit" />
+    </history-entry>
+    <history-entry file="FoodCommandsExecutorTest - 2019.02.03 at 11h 44m 01s.xml">
+      <configuration name="FoodCommandsExecutorTest" configurationId="JUnit" />
+    </history-entry>
+    <history-entry file="FoodCommandsExecutorTest - 2019.02.03 at 12h 42m 06s.xml">
+      <configuration name="FoodCommandsExecutorTest" configurationId="JUnit" />
+    </history-entry>
+    <history-entry file="DailyIntakeCommandsExecutorTest - 2019.02.03 at 12h 42m 24s.xml">
+      <configuration name="DailyIntakeCommandsExecutorTest" configurationId="JUnit" />
+    </history-entry>
+    <history-entry file="FoodCommandsExecutorTest - 2019.02.05 at 09h 39m 47s.xml">
+      <configuration name="FoodCommandsExecutorTest" configurationId="JUnit" />
+    </history-entry>
+    <history-entry file="DailyIntakeCommandsExecutorTest - 2019.02.05 at 09h 40m 03s.xml">
+      <configuration name="DailyIntakeCommandsExecutorTest" configurationId="JUnit" />
+    </history-entry>
+    <history-entry file="FoodCommandsExecutorTest - 2019.02.05 at 09h 51m 16s.xml">
+      <configuration name="FoodCommandsExecutorTest" configurationId="JUnit" />
+    </history-entry>
+    <history-entry file="DailyIntakeCommandsExecutorTest - 2019.02.05 at 09h 51m 39s.xml">
+      <configuration name="DailyIntakeCommandsExecutorTest" configurationId="JUnit" />
+    </history-entry>
+  </component>
+  <component name="TodoView">
+    <todo-panel id="selected-file">
+      <is-autoscroll-to-source value="true" />
+    </todo-panel>
+    <todo-panel id="all">
+      <are-packages-shown value="true" />
+      <is-autoscroll-to-source value="true" />
+    </todo-panel>
+  </component>
+  <component name="ToolWindowManager">
+    <frame x="-8" y="-8" width="1382" height="744" extended-state="6" />
+    <layout>
+      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.27912253" />
+      <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
+      <window_info id="Image Layers" order="2" />
+      <window_info id="Designer" order="3" />
+      <window_info id="UI Designer" order="4" />
+      <window_info id="Capture Tool" order="5" />
+      <window_info id="Favorites" order="6" side_tool="true" />
+      <window_info anchor="bottom" id="Message" order="0" />
+      <window_info anchor="bottom" id="Find" order="1" weight="0.3289689" />
+      <window_info anchor="bottom" id="Run" order="2" sideWeight="0.49924356" weight="0.31914893" />
+      <window_info anchor="bottom" id="Debug" order="3" weight="0.39934534" />
+      <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
+      <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
+      <window_info anchor="bottom" id="TODO" order="6" weight="0.3289689" />
+      <window_info anchor="bottom" id="Terminal" order="7" weight="0.3289689" />
+      <window_info anchor="bottom" id="Event Log" order="8" sideWeight="0.50075644" side_tool="true" weight="0.40425533" />
+      <window_info anchor="bottom" id="Version Control" order="9" />
+      <window_info anchor="bottom" id="Messages" order="10" weight="0.3289689" />
+      <window_info anchor="bottom" id="CheckStyle" order="11" weight="0.3289689" />
+      <window_info anchor="bottom" id="Inspection Results" order="12" weight="0.3289689" />
+      <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
+      <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
+      <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
+      <window_info anchor="right" id="Palette" order="3" />
+      <window_info anchor="right" id="Maven" order="4" />
+      <window_info anchor="right" id="Theme Preview" order="5" />
+      <window_info anchor="right" id="Capture Analysis" order="6" />
+      <window_info anchor="right" id="Palette&#9;" order="7" />
+      <window_info anchor="right" id="Coverage" order="8" side_tool="true" weight="0.17397882" />
+    </layout>
+  </component>
+  <component name="editorHistoryManager">
+    <entry file="file://$PROJECT_DIR$/database/barcode/851606005001">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/database/barcode/081331001805">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="119">
+          <caret line="7" selection-start-line="7" selection-end-line="7" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/database/ndbno/45045872">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/database/food-name/lasagna">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/bg/sofia/uni/fmi/mjt/exceptions/ServerResourcesException.java" />
+    <entry file="file://$PROJECT_DIR$/src/main/java/bg/sofia/uni/fmi/mjt/exceptions/WritingFileException.java" />
+    <entry file="file://$PROJECT_DIR$/src/main/java/bg/sofia/uni/fmi/mjt/exceptions/ResponseException.java" />
+    <entry file="file://$PROJECT_DIR$/src/main/java/bg/sofia/uni/fmi/mjt/exceptions/ReadingFileException.java" />
+    <entry file="file://$PROJECT_DIR$/src/main/java/bg/sofia/uni/fmi/mjt/commands/daily/intake/commands/DailyIntakeCommand.java" />
+    <entry file="file://$PROJECT_DIR$/database/food-name/get-food-raffaello" />
+    <entry file="file://$PROJECT_DIR$/src/test/java/bg/sofia/uni/fmi/mjt/commands/server/FoodAnalyzerServer.java" />
+    <entry file="file://$PROJECT_DIR$/database/food-name/tortilla">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/database/barcode/074175005276">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/client-database/Bohdan/1-2-2019">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/client-database/Pesho/31-1-2019">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/client-database/NedkoNedev/31-1-2019">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/client-database/NedkoNedev/30-1-2019">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/client-database/NedkoNedev/28-1-2019">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/client-database/BorisAngelov/2-2-2019">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/bg/sofia/uni/fmi/mjt/commands/daily/intake/commands/DailyIntakeCommandsExecutor.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="476">
+          <caret line="38" column="22" selection-start-line="38" selection-start-column="22" selection-end-line="38" selection-end-column="22" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/test/java/bg/sofia/uni/fmi/mjt/commands/constants/TestConstants.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="3723">
+          <caret line="219" column="1" selection-start-line="219" selection-start-column="1" selection-end-line="219" selection-end-column="1" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/bg/sofia/uni/fmi/mjt/exceptions/BarcodeNotFoundException.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="68">
+          <caret line="5" column="23" selection-start-line="5" selection-start-column="23" selection-end-line="5" selection-end-column="23" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/bg/sofia/uni/fmi/mjt/exceptions/DailyIntakeFileNotFoundException.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="34">
+          <caret line="2" column="13" selection-start-line="2" selection-start-column="13" selection-end-line="2" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/bg/sofia/uni/fmi/mjt/exceptions/FoodNotFoundException.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="34">
+          <caret line="2" column="13" selection-start-line="2" selection-start-column="13" selection-end-line="2" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/bg/sofia/uni/fmi/mjt/exceptions/IMGNotFoundException.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="34">
+          <caret line="2" column="42" selection-start-line="2" selection-start-column="42" selection-end-line="2" selection-end-column="42" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/bg/sofia/uni/fmi/mjt/exceptions/NDBNONotFoundException.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="34">
+          <caret line="2" column="13" selection-start-line="2" selection-start-column="13" selection-end-line="2" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/pom.xml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="325">
+          <caret line="27" column="21" selection-start-line="27" selection-start-column="21" selection-end-line="27" selection-end-column="21" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/bg/sofia/uni/fmi/mjt/constants/ServerConstants.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="17">
+          <caret line="71" column="50" selection-start-line="71" selection-start-column="50" selection-end-line="71" selection-end-column="50" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/database/ndbno/10953">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="476">
+          <caret line="28" column="33" selection-start-line="28" selection-start-column="32" selection-end-line="28" selection-end-column="33" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/client-database/NedkoNedev/4-2-2019">
+      <provider selected="true" editor-type-id="text-editor">
+        <state>
+          <caret column="23" selection-start-column="23" selection-end-column="23" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/bg/sofia/uni/fmi/mjt/commands/daily/intake/commands/DailyIntakeAdditionCommand.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="201">
+          <caret line="22" column="50" lean-forward="true" selection-start-line="22" selection-start-column="50" selection-end-line="22" selection-end-column="50" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/bg/sofia/uni/fmi/mjt/commands/daily/intake/commands/DailyIntakeRemovalCommand.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="17">
+          <caret line="23" column="50" lean-forward="true" selection-start-line="23" selection-start-column="50" selection-end-line="23" selection-end-column="50" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/bg/sofia/uni/fmi/mjt/commands/daily/intake/commands/DailyIntakeTableCommand.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="1158">
+          <caret line="76" column="50" selection-start-line="76" selection-start-column="50" selection-end-line="76" selection-end-column="50" />
+          <folding>
+            <element signature="imports" expanded="true" />
+            <element signature="e#3789#3790#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/database/food-name/alpine-milka">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/database/ndbno/45094945">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/client-database/Hristo/4-2-2019">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/test/java/bg/sofia/uni/fmi/mjt/commands/http/response/StubbedHttpClient.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="960">
+          <caret line="98" selection-start-line="98" selection-end-line="98" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/bg/sofia/uni/fmi/mjt/commands/Command.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="68">
+          <caret line="13" column="17" selection-start-line="13" selection-start-column="17" selection-end-line="13" selection-end-column="17" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/database/barcode/009800146130">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/database/ndbno/45050620">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/client-database/NedkoNedev/2-2-2019">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/client-database/NedkoNedev/25-1-2019">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="51">
+          <caret line="3" selection-start-line="3" selection-end-line="3" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/client-database/NedkoNedev/29-1-2019">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="17">
+          <caret line="1" selection-start-line="1" selection-end-line="1" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/bg/sofia/uni/fmi/mjt/server/FoodAnalyzerServer.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="2516">
+          <caret line="150" column="64" lean-forward="true" selection-start-line="150" selection-start-column="64" selection-end-line="150" selection-end-column="64" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/test/java/bg/sofia/uni/fmi/mjt/commands/daily/intake/commands/DailyIntakeCommandsExecutorTest.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="122">
+          <caret line="83" column="60" selection-start-line="83" selection-start-column="60" selection-end-line="83" selection-end-column="60" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/bg/sofia/uni/fmi/mjt/commands/ConnectCommand.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="212">
+          <caret line="16" column="58" lean-forward="true" selection-start-line="16" selection-start-column="58" selection-end-line="16" selection-end-column="58" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/bg/sofia/uni/fmi/mjt/commands/FoodBarcodeCommand.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-100">
+          <caret line="43" column="5" selection-start-line="43" selection-start-column="5" selection-end-line="43" selection-end-column="5" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/bg/sofia/uni/fmi/mjt/commands/FoodCommandsExecutor.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="408">
+          <caret line="40" column="22" selection-start-line="40" selection-start-column="16" selection-end-line="40" selection-end-column="22" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/test/java/bg/sofia/uni/fmi/mjt/commands/FoodCommandsExecutorTest.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-374">
+          <caret line="18" column="81" selection-start-line="18" selection-start-column="67" selection-end-line="18" selection-end-column="81" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/bg/sofia/uni/fmi/mjt/commands/FoodNameCommand.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="178">
+          <caret line="62" column="9" lean-forward="true" selection-start-line="62" selection-start-column="9" selection-end-line="62" selection-end-column="9" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/bg/sofia/uni/fmi/mjt/commands/FoodReportCommand.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="376">
+          <caret line="45" lean-forward="true" selection-start-line="45" selection-end-line="45" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+  </component>
+  <component name="masterDetails">
+    <states>
+      <state key="ArtifactsStructureConfigurable.UI">
+        <settings>
+          <artifact-editor />
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="FacetStructureConfigurable.UI">
+        <settings>
+          <last-edited>No facets are configured</last-edited>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="GlobalLibrariesConfigurable.UI">
+        <settings>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="JdkListConfigurable.UI">
+        <settings>
+          <last-edited>11</last-edited>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="ModuleStructureConfigurable.UI">
+        <settings>
+          <last-edited>food-analyzer-server</last-edited>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+                <option value="0.6" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="ProjectLibrariesConfigurable.UI">
+        <settings>
+          <last-edited>Maven: org.json:json:20160810</last-edited>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+    </states>
+  </component>
+</project>
